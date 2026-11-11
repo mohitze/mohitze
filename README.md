@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.png" width="100%" alt="Mohitze · Andrey · Full-stack developer" />
+</p>
 
-<!--
-**mohitze/mohitze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>English</b> &nbsp; / &nbsp; <a href="README.ru.md">Русский</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/web.svg" width="20" height="20" alt="" />&nbsp; Web development &nbsp; · &nbsp;
+  <img src="assets/apps.svg" width="20" height="20" alt="" />&nbsp; Mini Apps &nbsp; · &nbsp;
+  <img src="assets/bots.svg" width="20" height="20" alt="" />&nbsp; Telegram bots
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+I'm Andrey, a full-stack developer working under the name **Mohitze**.
+
+I build websites, web applications and tools for Telegram. I work on my own services and take on client projects.
+
+**Open to project work.**
